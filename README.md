@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, dignissimos
 
 ## Check Boxes
 
-- [ ] Check Box
+- [x] Check Box
